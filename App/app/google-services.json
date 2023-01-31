@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "411125869413",
+    "project_id": "umd-newbie-guide",
+    "storage_bucket": "umd-newbie-guide.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411125869413:android:182fa1b91a7b6824cd0f8c",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411125869413-49rvamdafap30f8bhg94ea3sjqh4kkph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv1ynODfi6Jq7pmI95vOUEabayKn7-uu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411125869413-49rvamdafap30f8bhg94ea3sjqh4kkph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
